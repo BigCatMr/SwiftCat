@@ -1,6 +1,6 @@
 - 效果演示
 
-![屏幕快照 2017-07-11 下午3.43.12.png](http://upload-images.jianshu.io/upload_images/2419271-f831a4be3d066bab.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![2.png](http://upload-images.jianshu.io/upload_images/2419271-8f1bad50f3498332.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 - 简单易用，注释清晰，调用方便，欢迎共同交流，一起进步
 
