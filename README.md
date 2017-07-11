@@ -60,7 +60,7 @@ fileprivate let defaultEdgInset : UIEdgeInsets = UIEdgeInsets(top: 10, left: 10,
 - override func layoutAttributesForItem(at indexPath: IndexPath) -> UICollectionViewLayoutAttributes? 方法
 该方法则用来设置每个item的attributes，在这里，我们只需要简单的设置每个item的attributes.frame即可
 首先我们必须得知collectionView的尺寸，然后我们根据collectionView的宽度，以及列数、各个间距来计算每个item的宽度
-``
+
 `//设置每个item的布局属性
  override func layoutAttributesForItem(at indexPath: IndexPath) -> UICollectionViewLayoutAttributes? {
         let attr = UICollectionViewLayoutAttributes(forCellWith: indexPath)
