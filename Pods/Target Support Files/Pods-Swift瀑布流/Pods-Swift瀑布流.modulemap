@@ -1,0 +1,6 @@
+framework module Pods_Swift___ {
+  umbrella header "Pods-Swift瀑布流-umbrella.h"
+
+  export *
+  module * { export * }
+}
